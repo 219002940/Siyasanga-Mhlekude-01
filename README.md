@@ -15,5 +15,9 @@ This is a simple Python script that displays a calendar for a given month and ye
 ## Dependencies
 - Python standard library (no external dependencies required).
 
+## ## Screenshot
+
+![Calculator Screenshot](C:\Users\MHLEKUDES\Documents\Siyasanga Mhlekude)
+
 
 
